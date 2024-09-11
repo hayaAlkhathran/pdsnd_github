@@ -5,7 +5,7 @@ CITY_DATA = { 'chicago': "C:\\Users\\Admin\\OneDrive\\Desktop\\all-project-files
               'new york': "C:\\Users\\Admin\\OneDrive\\Desktop\\all-project-files\\new_york_city.csv",
               'washington': "C:\\Users\\Admin\\OneDrive\\Desktop\\all-project-files\\washington.csv" }
 
-
+print("begin of the program,let’s get started")
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
